@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANUWAOFFICIAL&hide=css,html&theme=ffd100&bg_color=DDD9DA00&text_color=ffd100" > </a> </p>
 
-<a href="https://github.com/Timasha01Buddila/Timasha-Md" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Timasha01Buddila&repo=Timasha-Md&theme=chartreuse-dark"></a>
+<a href="https://github.com/Timasha01Buddila/Timasha01Buddila" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Timasha01Buddila&repo=Timasha01Buddila&theme=chartreuse-dark"></a>
 
 <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100">
 
