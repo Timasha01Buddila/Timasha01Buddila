@@ -7,7 +7,7 @@
 
  <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="https://github-profile-trophy.vercel.app/?username=Timasha01Buddila&no-bg=true&no-frame=false&theme=algolia"></a></p>
  
- <p align="center"> <a href="https://github.com/Timasha01Buddila"><img  src="http://github-readme-streak-stats.herokuapp.com?user=Timasha01Buddila&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=#FFA500&fire=#FFA500&ring=#FFA500&currStreakNum=#FFA500&currStreakLabel=#FFA500&sideLabels=#FFA500&dates=#FFA500&sideNums=#FFA500"></a></p>
+ <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="http://github-readme-streak-stats.herokuapp.com?user=Timasha01Buddila&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=00AEFF&fire=00AEFF&ring=00AEFF&currStreakNum=00AEFF&currStreakLabel=00AEFF&sideLabels=ffd100&dates=00AEFF&sideNums=00AEFF"></a></p>
 
 <!---
 Timasha01Buddila/Timasha01Buddila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
