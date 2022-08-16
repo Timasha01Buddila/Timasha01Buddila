@@ -6,7 +6,7 @@
 </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timasha&theme=hacker&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<p align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timasha&theme=hacker&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 
 
