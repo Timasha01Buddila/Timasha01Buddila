@@ -5,7 +5,7 @@
 - <h3 align="left">Contact me:</h3><p>   <a href="https://wa.me/94715264791" target="blank"><img align="center" src="https://telegra.ph/file/664e97adff61431a45bd5.png" alt="https://wa.me/94715264791" height="40" width="40" /></a>
 </p>
 
-[![GitHub Streak]( <p align="center"> http://github-readme-streak-stats.herokuapp.com?user=Timasha&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)</p>
+[![GitHub Streak](<p align="center"> http://github-readme-streak-stats.herokuapp.com?user=Timasha&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)</p>
 
 
 <!---
