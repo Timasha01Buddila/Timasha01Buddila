@@ -10,6 +10,7 @@
  
  <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="https://github-readme-stats.vercel.app/api?username=TIMASHA01BUDDILA&theme=ffd100&bg_color=DDD9DA00&text_color=ffd100&show_icons=TRUE&icon_color=ffd100" > </a> </p>
 
+<p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timasha01Buddila&hide=css&theme=algolia&bg_color=DDD9DA00&text_color=ffd100" > </a> </p>
 <!---
 Timasha01Buddila/Timasha01Buddila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
