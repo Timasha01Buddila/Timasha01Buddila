@@ -5,7 +5,7 @@
 - <h3 align="left">Contact me:</h3><p>   <a href="https://wa.me/94715264791" target="blank"><img align="center" src="https://telegra.ph/file/664e97adff61431a45bd5.png" alt="https://wa.me/94715264791" height="40" width="40" /></a>
 </p>
 
- <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="https://github-profile-trophy.vercel.app/?username=Timasha01Buddila&no-bg=true&no-frame=false&theme=algolia"></a></p>
+ <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="https://github-profile-trophy.vercel.app/?username=Timasha01Buddila&no-bg=true&no-frame=false&theme=ffd100"></a></p>
  
  <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="http://github-readme-streak-stats.herokuapp.com?user=Timasha01Buddila&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=ffd100&fire=ffd100&ring=ffd100&currStreakNum=ffd100&currStreakLabel=ffd100&sideLabels=ffd100&dates=ffd100&sideNums=ffd100"></a></p>
 
