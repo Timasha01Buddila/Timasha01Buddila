@@ -12,8 +12,9 @@
 
 <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANUWAOFFICIAL&hide=css,html&theme=ffd100&bg_color=DDD9DA00&text_color=ffd100" > </a> </p>
 
-<a href="https://github.com/Timasha01Buddila/Timasha01Buddila" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Timasha01Buddila&repo=Timasha01Buddila&theme=chartreuse-dark"></a>
-
+<p align="left">
+  <a href="https://github.com/Timasha01Buddila/Timasha01Buddila"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Timasha01Buddila&repo=Timasha01Buddila&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+  
 <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100">
 
 <!---
