@@ -12,6 +12,8 @@
 
 <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANUWAOFFICIAL&hide=css,html&theme=ffd100&bg_color=DDD9DA00&text_color=ffd100" > </a> </p>
 
+<img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100">
+
 <!---
 Timasha01Buddila/Timasha01Buddila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
