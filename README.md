@@ -7,7 +7,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timasha&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
- <p align="center"> <a href="https://github.com/sanuwaofficial"><img src="https://github-profile-trophy.vercel.app/?username=Timasha01Buddila&no-bg=true&no-frame=false&theme=algolia"></a></p>
+ <p align="center"> <a href="https://github.com/Timasha01Buddila"><img src="https://github-profile-trophy.vercel.app/?username=Timasha01Buddila&no-bg=true&no-frame=false&theme=algolia"></a></p>
 
 <!---
 Timasha01Buddila/Timasha01Buddila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
