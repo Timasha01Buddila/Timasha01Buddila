@@ -7,6 +7,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timasha&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <!---
 Timasha01Buddila/Timasha01Buddila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
